@@ -1,4 +1,4 @@
-## App## App Preview
+## App Preview
 
 ![Deep Research App](Image_1.png)
 ![Deep Research App](Image_2.png)
